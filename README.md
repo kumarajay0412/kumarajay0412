@@ -23,5 +23,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Mail](mailto:ajay19293@iiitd.ac.in), [LinkedIn](https://www.linkedin.com/in/ajay-kumar-a5bb4b193/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love cooking and gardening.
-
+- 
+![](https://komarev.com/ghpvc/?username=kumarajay0412
 ![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumarajay0412&show_icons=true&theme=radical)
