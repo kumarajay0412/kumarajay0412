@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love cooking and gardening.
 - 
-![](https://komarev.com/ghpvc/?username=kumarajay0412
+![](https://komarev.com/ghpvc/?username=kumarajay0412)
 ![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumarajay0412&show_icons=true&theme=radical)
