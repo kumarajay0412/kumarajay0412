@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 - 🌱 I’m currently learning about DSA, DBMS and FinTech
 - 👯 I’m looking to collaborate on any project that I can help with 
-- 💬 Ask me about **DSA, Web Development** 
+- 💬 Ask me about **DSA, Web Development, App development ** 
 - 📫 How to reach me: [Mail](mailto:ajay19293@iiitd.ac.in), [LinkedIn](https://www.linkedin.com/in/ajay-kumar-a5bb4b193/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love cooking and gardening.
