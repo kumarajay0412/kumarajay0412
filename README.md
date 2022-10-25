@@ -1,32 +1,104 @@
-### Hi there 👋
+<h3 align="center"> Hey! 👋</h3>
 
-<!--
-**kumarajay0412/kumarajay0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Ajay this side ~ I do software engineering with mechanical keyboards.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+Website [<b>Blogs</b>/<b>Projects</b>/<b>Contact</b>]:
+<ins><samp><a href="https://kumarajay0412.vercel.app/"> <b>kumarajay0412.vercel.app//</b></a></samp></ins>
+</p>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="https://github.com/guptabhaskar/guptabhaskar/blob/master/Hello.gif" width="100" height="100" />
+<table align="center">
+  <tr>
+    <td style="border-right: 1px solid #eeeeef;">
+      <table>
+        <tr>
+          <td>
+            <img alt="Mercari" title="Mercari" style="height:20px;" src="assets/mercari.png">
+          </td>
+          <td>
+            SWE Intern'22 at <a href="">Mercari</a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td style="border-right: 1px solid #eeeeef;">
+      <table>
+        <tr>
+          <td>
+            <img alt="FamPay" title="FamPay" style="height:20px;" src="assets/Matlab_Logo.png">
+          </td>
+          <td>
+            SWE Intern'22 at <a href="https://www.mathworks.com/products/matlab.html">Mathworks</a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td style="border-right: 1px solid #eeeeef;">
+      <table>
+        <tr>
+          <td>
+            <img alt="GSoC" title="GSoC" style="height:20px;" src="assets/unnamed.png">
+          </td>
+          <td>
+            Frontend Intern at <a href="https://chartr.in/">Chartr</a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td style="border-right: 1px solid #eeeeef;">
+      <table>
+        <tr>
+          <td>
+            <img alt="MLH" title="MLH" style="height:20px;" src="assets/PdTKpvIB_400x400.jpeg">
+          </td>
+          <td>
+           Frontend Intern at <a href="https://capexmove.io/">Capexmove</a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td style="border-right: 1px solid #eeeeef;">
+      <table>
+        <tr>
+          <td>
+            <img alt="Retrera" title="Retrera" style="height:20px;" src="assets/download.jpeg">
+          </td>
+          <td>
+            SWE Intern'21 at <a href="https://www.tweek-labs.com/">Tweek Lab</a>
+          </td>
+        </tr>
+      </table>
+    </td>
+<!--     <td>
+      <table>
+        <tr>
+          <td>
+            <img alt="RapidQuest" title="RapidQuest" style="height:20px;" src="assets/rapidquest.webp">
+          </td>
+          <td>
+            SWE Intern'20 at <a href="https://rapidquest.in/">RapidQuest</a>
+          </td>
+        </tr>
+      </table>
+    </td> -->
+  </tr>
+</table>
+<br>
 
-### Hi there 👋
-- 🌱 I’m currently learning about DSA, DBMS and FinTech
-- 👯 I’m looking to collaborate on any project that I can help with 
-- 💬 Ask me about **DSA, Web Development, App development ** 
-- 📫 How to reach me: [Mail](mailto:ajay19293@iiitd.ac.in), [LinkedIn](https://www.linkedin.com/in/ajay-kumar-a5bb4b193/)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love cooking and gardening.
-- ![](https://komarev.com/ghpvc/?username=kumarajay0412)
+<p align="center">
+I gain experience by implementing, optimizing and maintaining the backend for product features.<br>
+<i>I wield Javascript,Typescript,Python, Golang and Java.</i>
+</p><hr>
+<p align="center">
+<a href="https://www.linkedin.com/in/ajay-kumar-a5bb4b193/"><img alt="LinkedIn - /aitikgupta" title="LinkedIn - /aitikgupta" height="32" width="32" src="assets/linkedin.svg"></a>
+<a href="https://kumarajay0412.vercel.app/"><img alt="Personal Website - Ajay Kumar" title="Personal Website - Ajay Kumar" height="32" width="32" src="assets/internet.svg"></a>
+<a href="https://twitter.com/Kumar_ajay0412"><img alt="Twitter - /aitikgupta" title="Twitter - /aitikgupta" height="32" width="32" src="assets/twitter.svg"></a><br/>
+<samp>PS: I go by <ins>@Kumarajay0412</ins> throughout the web! \o/</samp>
+</p><hr>
 
-![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumarajay0412&show_icons=true&theme=radical)
 
-<a href="https://github.com/kumarajay0412/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarajay0412&theme=algolia&hide=Jupyter%20Notebook" />
-</a>
+
+![Ajay Kumar](./assets/bottom_header.svg)
