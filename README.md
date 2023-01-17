@@ -12,6 +12,18 @@ Website [<b>Blogs</b>/<b>Projects</b>/<b>Contact</b>]:
 
 <table align="center">
   <tr>
+      <td style="border-right: 1px solid #eeeeef;">
+      <table>
+        <tr>
+          <td>
+            <img alt="Briefly" title="Briefly" style="height:20px;" src="assets/briefly.png">
+          </td>
+          <td>
+            Frontend Developer at <a href="">Briefly</a>
+          </td>
+        </tr>
+      </table>
+    </td>
     <td style="border-right: 1px solid #eeeeef;">
       <table>
         <tr>
