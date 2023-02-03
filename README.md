@@ -16,7 +16,7 @@ Website [<b>Blogs</b>/<b>Projects</b>/<b>Contact</b>]:
       <table>
         <tr>
           <td>
-            <img alt="Gan.ai" title="Gan.ai" style="height:20px;" src="assets/gan.png">
+            <img alt="Gan.ai" title="Gan.ai" style="height:20px;" src="assets/gan_logo.png">
           </td>
           <td>
             Frontend Developer at <a href="">Gan.ai</a>
