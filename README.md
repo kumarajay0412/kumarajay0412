@@ -16,7 +16,7 @@ Website [<b>Blogs</b>/<b>Projects</b>/<b>Contact</b>]:
       <table>
         <tr>
           <td>
-            <img alt="Gan.ai" title="Gan.ai" style="height:20px; backgroundColor:"#333333""; src="assets/gan_logo.png">
+            <img alt="Gan.ai" title="Gan.ai" style="height:20px; backgroundColor:"#333333""; src="assets/gann.jpeg">
           </td>
           <td>
             Frontend Developer at <a href="">Gan.ai</a>
@@ -117,9 +117,9 @@ I gain experience by implementing, optimizing and maintaining the backend for pr
 <i>I wield Javascript,Typescript,Python, Golang and Java.</i>
 </p><hr>
 <p align="center">
-<a href="https://www.linkedin.com/in/ajay-kumar-a5bb4b193/"><img alt="LinkedIn - /aitikgupta" title="LinkedIn - /aitikgupta" height="32" width="32" src="assets/linkedin.svg"></a>
+<a href="https://www.linkedin.com/in/ajay-kumar-a5bb4b193/"><img alt="LinkedIn - /" title="LinkedIn - /aitikgupta" height="32" width="32" src="assets/linkedin.svg"></a>
 <a href="https://kumarajay0412.vercel.app/"><img alt="Personal Website - Ajay Kumar" title="Personal Website - Ajay Kumar" height="32" width="32" src="assets/internet.svg"></a>
-<a href="https://twitter.com/Kumar_ajay0412"><img alt="Twitter - /aitikgupta" title="Twitter - /aitikgupta" height="32" width="32" src="assets/twitter.svg"></a><br/>
+<a href="https://twitter.com/Kumar_ajay0412"><img alt="Twitter - /" title="Twitter - /" height="32" width="32" src="assets/twitter.svg"></a><br/>
 <samp>PS: I go by <ins>@Kumarajay0412</ins> throughout the web! \o/</samp>
 </p><hr>
 
