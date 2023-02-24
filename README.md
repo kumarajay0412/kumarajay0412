@@ -24,18 +24,6 @@ Website [<b>Blogs</b>/<b>Projects</b>/<b>Contact</b>]:
         </tr>
       </table>
     </td>
-      <td style="border-right: 1px solid #eeeeef;">
-      <table>
-        <tr>
-          <td>
-            <img alt="Briefly" title="Briefly" style="height:20px;" src="assets/briefly.png">
-          </td>
-          <td>
-            Frontend Developer at <a href="">Briefly</a>
-          </td>
-        </tr>
-      </table>
-    </td>
     <td style="border-right: 1px solid #eeeeef;">
       <table>
         <tr>
@@ -56,6 +44,18 @@ Website [<b>Blogs</b>/<b>Projects</b>/<b>Contact</b>]:
           </td>
           <td>
             SWE Intern'22 at <a href="https://www.mathworks.com/products/matlab.html">Mathworks</a>
+          </td>
+        </tr>
+      </table>
+    </td>
+          <td style="border-right: 1px solid #eeeeef;">
+      <table>
+        <tr>
+          <td>
+            <img alt="Briefly" title="Briefly" style="height:20px;" src="assets/briefly.png">
+          </td>
+          <td>
+            Frontend Developer at <a href="">Briefly</a>
           </td>
         </tr>
       </table>
