@@ -113,7 +113,7 @@ Website [<b>Blogs</b>/<b>Projects</b>/<b>Contact</b>]:
 <br>
 
 <p align="center">
-I gain experience by implementing, optimizing and maintaining the backend for product features.<br>
+I gain experience by implementing, optimizing and maintaining the backend and frontend for product features.<br>
 <i>I wield Javascript,Typescript,Python, Golang and Java.</i>
 </p><hr>
 <p align="center">
