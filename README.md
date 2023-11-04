@@ -96,25 +96,13 @@ Website [<b>Blogs</b>/<b>Projects</b>/<b>Contact</b>]:
         </tr>
       </table>
     </td>
-<!--     <td>
-      <table>
-        <tr>
-          <td>
-            <img alt="RapidQuest" title="RapidQuest" style="height:20px;" src="assets/rapidquest.webp">
-          </td>
-          <td>
-            SWE Intern'20 at <a href="https://rapidquest.in/">RapidQuest</a>
-          </td>
-        </tr>
-      </table>
-    </td> -->
   </tr>
 </table>
 <br>
 
 <p align="center">
 I gain experience by implementing, optimizing and maintaining the backend and frontend for product features.<br>
-<i>I wield Javascript,Typescript,Python, Golang and Java.</i>
+<i>I wield Javascript,Typescript,Python, Golang , C++ and Java.</i>
 </p><hr>
 <p align="center">
 <a href="https://www.linkedin.com/in/ajay-kumar-a5bb4b193/"><img alt="LinkedIn - /" title="LinkedIn - /aitikgupta" height="32" width="32" src="assets/linkedin.svg"></a>
