@@ -19,7 +19,7 @@ Website [<b>Blogs</b>/<b>Projects</b>/<b>Contact</b>]:
             <img alt="Gan.ai" title="Gan.ai" style="height:20px; backgroundColor:"#333333""; src="assets/gann.jpeg">
           </td>
           <td>
-            Frontend Developer at <a href="">Gan.ai</a>
+            Software Developer at <a href="">Gan.ai</a>
           </td>
         </tr>
       </table>
