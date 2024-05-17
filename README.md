@@ -6,7 +6,7 @@ Ajay this side ~ I do software engineering with mechanical keyboards.
 
 <p align="center">
 Website [<b>Blogs</b>/<b>Projects</b>/<b>Contact</b>]:
-<ins><samp><a href="https://kumarajay0412.vercel.app/"> <b>kumarajay0412.vercel.app//</b></a></samp></ins>
+<ins><samp><a href="https://www.ajay-kumar.in/"> <b>ajay-kumar.in</b></a></samp></ins>
 </p>
 <br>
 
