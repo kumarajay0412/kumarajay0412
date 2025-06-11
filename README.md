@@ -12,7 +12,7 @@ Website [<b>Blogs</b>/<b>Projects</b>/<b>Contact</b>]:
 
 <table align="center">
   <tr>
-            <td style="border-right: 1px solid #eeeeef;">
+       <td style="border-right: 1px solid #eeeeef;">
       <table>
         <tr>
           <td>
@@ -24,8 +24,7 @@ Website [<b>Blogs</b>/<b>Projects</b>/<b>Contact</b>]:
         </tr>
       </table>
     </td>
-    
-          <td style="border-right: 1px solid #eeeeef;">
+    <td style="border-right: 1px solid #eeeeef;">
       <table>
         <tr>
           <td>
