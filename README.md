@@ -12,6 +12,19 @@ Website [<b>Blogs</b>/<b>Projects</b>/<b>Contact</b>]:
 
 <table align="center">
   <tr>
+            <td style="border-right: 1px solid #eeeeef;">
+      <table>
+        <tr>
+          <td>
+            <img alt="adalat.ai" title="adalat.ai" style="height:20px; backgroundColor:"#333333""; src="assets/gann.jpeg">
+          </td>
+          <td>
+            Software Developer at <a href="">adalat.ai</a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    
           <td style="border-right: 1px solid #eeeeef;">
       <table>
         <tr>
